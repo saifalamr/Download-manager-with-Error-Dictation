@@ -34,7 +34,7 @@ The system allows users to request downloads (Images, Videos, PDFs, etc.) via th
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/socket-download-manager.git](https://github.com/your-username/socket-download-manager.git)
+    git clone [https://github.com/saifalamr/Download-manager-with-Error-Dictation.git)
     cd socket-download-manager
     ```
 
