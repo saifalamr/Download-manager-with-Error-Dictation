@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1765902381 source:c:\users\saifa\downloaderpj\downloadclient\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<windows.h>
+	<stdint.h>
+
